@@ -1,9 +1,9 @@
 # transakbounty
 This is a transak bounty hackathon that took place in may.
 
-# Demo Video: https://vimeo.com/705937783
+ Demo Video: https://vimeo.com/705937783
 
-# Project URL: https://easy-nft-builder-strandgeek.vercel.app/
+ Project URL: https://easy-nft-builder-strandgeek.vercel.app/
 
 Before testing the project link, make sure:
 
