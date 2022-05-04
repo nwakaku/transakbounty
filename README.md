@@ -1,7 +1,7 @@
 # Transakbounty
 This is a transak bounty hackathon that took place in may.
 
- Demo Video: https://vimeo.com/705937783
+ Demo Video: ''
 
  Project URL: https://trasak-project.vercel.app/
 
